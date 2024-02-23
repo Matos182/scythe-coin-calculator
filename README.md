@@ -47,8 +47,10 @@ This project is licensed under the MIT License.
 
 ## Buy me a Coffee
 
-> Thank you!
-> XMR Address:
-> 46cX3Gw71JyAoP91cde3YgFPV4uDopiSS2TTdsZyjk4nGy5SuYvBSeoYwscnfr57eN6b7Pp5sZMzrHNhjs22vHESBD2bRrz
-> BNB Smart Chain Address:
-> 0x363365b8E01f4e6EbBc2630467c3354b4b74EC0C
+Thank you!
+
+XMR Address:
+46cX3Gw71JyAoP91cde3YgFPV4uDopiSS2TTdsZyjk4nGy5SuYvBSeoYwscnfr57eN6b7Pp5sZMzrHNhjs22vHESBD2bRrz
+
+BNB Smart Chain Address:
+0x363365b8E01f4e6EbBc2630467c3354b4b74EC0C
