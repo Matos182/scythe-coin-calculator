@@ -18,7 +18,7 @@ Welcome to the Scythe Coin Calculator App repository! This application is design
 
 1.  Clone the repository to your local machine using: `git clone https://github.com/Matos182/scythe-coin-calculator.git`
 2.  Open the project in your preferred IDE or text editor/compiler.
-3.  In the project folder, open a terminal and and upgrade your dependencies of Flutter: `flutter pub get` and `flutter run`
+3.  In the project folder, open a terminal and and upgrade your dependencies of Flutter: `flutter pub get`
 4.  Run Flutter Icons: `flutter pub run flutter_launcher_icons:main`
 5.  Compile the code using Flutter: `flutter build apk --build-name 0.1.2 --build-number 3`
 
